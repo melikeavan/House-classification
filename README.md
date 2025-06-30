@@ -1,6 +1,6 @@
 # House Classification Project
 
-Bu proje, İstanbul Arnavutköy ilçesindeki emlak ilanlarından elde edilen verilerle, evlerin **“sıfır” (yeni) mi yoksa “ikinci el” mi** olduğunu tahmin etmek amacıyla geliştirilmiş bir makine öğrenmesi sınıflandırma projesidir.
+Bu proje, İstanbul Arnavutköy ilçesindeki emlak ilanlarından elde edilen verilerle, evlerin **“sıfır” (yeni) mi yoksa “ikinci el” mi** olduğunu tahmin etmek amacıyla geliştirilmiş bir makine öğrenmesi sınıflandırma projesidir. (Bina yaşı 5 yıldan küçük olan binalar **Sıfır**, 5 yıldan büyük olan binalar ise **İkinci El** olarak değerlendirilmiştir.)
 
 ## Proje Hakkında 
 
